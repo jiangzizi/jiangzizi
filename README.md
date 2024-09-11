@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jiangzizi
-- 👀 I’m interested in football, running, international relationship and CS
-- 🌱 I’m currently learning in Tsinghua University
-- 📫 How to reach me jdz22@mails.tsinghua.edu.cn
+- 🌱 I’m currently learning computer science in Tsinghua University. Doing my research in THUNLP lab as a begginner.
+- 📫 Reach me by -->  jdz22@mails.tsinghua.edu.cn
 
 <!---
 jiangzizi/jiangzizi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
